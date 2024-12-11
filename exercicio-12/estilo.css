@@ -1,0 +1,27 @@
+h1{
+    color: yellow;
+    background-color: red;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+h2{
+    background-color: black;
+    color: white;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+h3{
+    color: red;
+    background-color: yellow;
+    font-family: monospace;
+}
+
+p{
+    background-color: green;
+    color: white;
+    font-size: 20px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
